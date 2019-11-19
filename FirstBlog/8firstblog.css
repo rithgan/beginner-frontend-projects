@@ -1,0 +1,40 @@
+body{
+	margin: 20px auto;
+	width: 700px;
+	max-width: 80%;
+	border:10px solid #bdc3c7;
+	padding: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+/*	background-image:url(https://previews.123rf.com/images/suchota/suchota1605/suchota160500020/56546794-closeup-view-of-an-original-drawing-graphite-pencil-on-acrylic-paint-hand-painted-abstract-grunge-ba.jpg);
+*/	background-size: cover;
+	background-repeat: no-repeat;
+	font-size: 50px
+}
+
+p{
+	color: blue;
+	text-transform: uppercase;
+	font-size: 60px;
+	/*letter-spacing:4px; doesnt work*/
+	/*word-spacing: 4px; same*/
+	/*font-kerning: 4px; same*/
+	letter-spacing: .25em;
+}
+
+h2{
+	text-transform: uppercase;
+}
+	
+/*.bottomline{
+    border-bottom: 2px solid green #f1f1f1;    
+}*/
+hr{
+	margin: 30px 0 30px 0;
+	color: black;
+}
+
+.shift{
+	/*margin: 0 0 0 10px;*/
+	padding-left: 4px;
+	border-left: 4px solid #B5DBA9;
+}
